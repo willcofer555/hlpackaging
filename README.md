@@ -1,4 +1,4 @@
-## H&L freight cost calculator/client portal 
+## H&L client freight calculator
 
 ### - React, Express, NodeSQLite
 ### - Redux 
