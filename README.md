@@ -1,5 +1,5 @@
 ## H&L client freight calculator
 
-### - React, Express, NodeSQLite
-### - Redux 
+### - React, Express, Node, SQlite3
+
 
